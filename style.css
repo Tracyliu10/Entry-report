@@ -3,3 +3,6 @@
 .layout{text-align:left;padding:20px;line-height:1.9}.layout.active{border:2px solid #275c47}.area-row{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #e3e7df;padding:6px 0}details{margin-top:24px}summary{cursor:pointer;padding:12px 0;color:#275c47}
 button:disabled{opacity:.48;cursor:not-allowed}
 button:disabled:hover{background:white}
+
+.header-controls{display:flex;align-items:center;justify-content:flex-end;gap:.6rem;flex-wrap:wrap}
+.header-controls select{font:inherit;border:1px solid #cbd5d1;border-radius:.45rem;background:white;color:#173b32;padding:.3rem .5rem}
